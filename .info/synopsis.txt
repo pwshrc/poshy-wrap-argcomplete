@@ -1,0 +1,1 @@
+A convenient function for registering `argcomplete` completions in your PowerShell session.
